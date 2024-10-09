@@ -67,4 +67,3 @@ Use Folium to create interactive maps showing restaurant locations, clusters, an
 Conclusion
 By combining data analytics, machine learning, and visualization tools, this project delivers a comprehensive understanding of how restaurant ratings are influenced by various factors. The developed recommendation system, cuisine classification model, and geospatial analysis provide valuable insights for improving customer experience and restaurant operations.
 
-
